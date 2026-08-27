@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Leonardo Cavalcanti
 
-<!--
-**leocavallcantti/leocavallcantti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Back-end`**
 
-Here are some ideas to get you started:
+Estudante de tecnologia. No momento, estou estudando desenvolvimento back-end em Java, construindo uma base sólida em Java e orientação a objetos.
+---
+ 
+### 🗺️ Roteiro de estudos
+ 
+```
+Java → SQL → Spring Boot → Docker → AWS → CI/CD
+```
+### 🚧 Em aprendizado agora :
+- **Java**: variáveis, tipos de dados, condicionais, OOP (encapsulamento, abstração, herança, polimorfismo)
+- **Git & GitHub**: versionamento e boas práticas de commit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e ferramentas
+ 
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+
