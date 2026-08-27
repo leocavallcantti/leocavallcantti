@@ -11,7 +11,7 @@ Estudante de tecnologia. No momento, estou estudando desenvolvimento back-end em
 ```
 Java → SQL → Spring Boot → Docker → AWS → CI/CD
 ```
-### 🚧 Em aprendizado agora :
+### 🚧 Em aprendizado agora:
 - **Java**: variáveis, tipos de dados, condicionais, OOP (encapsulamento, abstração, herança, polimorfismo)
 - **Git & GitHub**: versionamento e boas práticas de commit
 
